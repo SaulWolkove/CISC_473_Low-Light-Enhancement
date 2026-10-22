@@ -1,0 +1,8 @@
+# Python 3.13. Versions used for all results in this repository.
+torch==2.14.1
+torchvision==0.29.1
+numpy==2.5.4
+pillow==13.0.0
+opencv-python==5.0.0.93
+scikit-image==0.26.0
+matplotlib==3.11.2
