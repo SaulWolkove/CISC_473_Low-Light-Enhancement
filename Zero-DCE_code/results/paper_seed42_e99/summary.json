@@ -1,0 +1,6 @@
+{
+  "weights": "snapshots_paper_seed42/Epoch99.pth",
+  "n_images": 15,
+  "psnr": 12.02401396001063,
+  "ssim": 0.4303178223006687
+}

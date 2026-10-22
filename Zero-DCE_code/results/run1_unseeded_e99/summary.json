@@ -1,0 +1,6 @@
+{
+  "weights": "snapshots_run1_unseeded/Epoch99.pth",
+  "n_images": 15,
+  "psnr": 16.857053679784187,
+  "ssim": 0.5623805992099039
+}
