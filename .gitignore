@@ -1,0 +1,12 @@
+# Datasets are downloaded separately (see README)
+Zero-DCE_code/data/train_data/
+Zero-DCE_code/data/LOL/
+Zero-DCE_code/data/result/
+# Training writes a checkpoint every epoch; only Epoch99.pth is kept in the repo
+Zero-DCE_code/snapshots*/*
+!Zero-DCE_code/snapshots*/Epoch99.pth
+# Python / OS
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
